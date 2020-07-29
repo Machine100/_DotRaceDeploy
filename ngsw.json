@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1595898691330,
+  "timestamp": 1596061250440,
   "index": "https://machine100.github.io/_DotRaceDeploy/index.html",
   "assetGroups": [
     {
@@ -13,8 +13,8 @@
       "urls": [
         "https://machine100.github.io/_DotRaceDeploy/favicon.ico",
         "https://machine100.github.io/_DotRaceDeploy/index.html",
-        "https://machine100.github.io/_DotRaceDeploy/main-es2015.c3408e353bc1c31ebe48.js",
-        "https://machine100.github.io/_DotRaceDeploy/main-es5.c3408e353bc1c31ebe48.js",
+        "https://machine100.github.io/_DotRaceDeploy/main-es2015.33f0b50f4af0634fa416.js",
+        "https://machine100.github.io/_DotRaceDeploy/main-es5.33f0b50f4af0634fa416.js",
         "https://machine100.github.io/_DotRaceDeploy/manifest.webmanifest",
         "https://machine100.github.io/_DotRaceDeploy/polyfills-es2015.a0fa45e0fa52702b64f0.js",
         "https://machine100.github.io/_DotRaceDeploy/polyfills-es5.c6ea59afb9444f35d58e.js",
@@ -32,32 +32,36 @@
         "ignoreVary": true
       },
       "urls": [
+        "https://machine100.github.io/_DotRaceDeploy/assets/icons/Icon-144x144.png",
+        "https://machine100.github.io/_DotRaceDeploy/assets/icons/Icon-192x192.png",
+        "https://machine100.github.io/_DotRaceDeploy/assets/icons/Icon-36.png",
+        "https://machine100.github.io/_DotRaceDeploy/assets/icons/Icon-48.png",
+        "https://machine100.github.io/_DotRaceDeploy/assets/icons/Icon-72x72.png",
+        "https://machine100.github.io/_DotRaceDeploy/assets/icons/Icon-96x96.png",
         "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-128x128.png",
-        "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-144x144.png",
         "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-152x152.png",
-        "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-192x192.png",
         "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-384x384.png",
-        "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-512x512.png",
-        "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-72x72.png",
-        "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-96x96.png"
+        "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-512x512.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
+    "https://machine100.github.io/_DotRaceDeploy/assets/icons/Icon-144x144.png": "db7955cbeddea16260a3c5374e25e44cb6910311",
+    "https://machine100.github.io/_DotRaceDeploy/assets/icons/Icon-192x192.png": "e0d6d4988926fa9eea5f68be644aa81914e5352f",
+    "https://machine100.github.io/_DotRaceDeploy/assets/icons/Icon-36.png": "3adad8d631833b183a02fc34fb06203775dce344",
+    "https://machine100.github.io/_DotRaceDeploy/assets/icons/Icon-48.png": "bcd4c86b42b4d987eec37959e6b3602eb61f2f16",
+    "https://machine100.github.io/_DotRaceDeploy/assets/icons/Icon-72x72.png": "238b9b17a1648d7e67b6bd7a03d3624c89a4ac9e",
+    "https://machine100.github.io/_DotRaceDeploy/assets/icons/Icon-96x96.png": "2312b833e9af27cf7480b9d6917bd8e536af0cf9",
     "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
     "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://machine100.github.io/_DotRaceDeploy/assets/icons/icon-512x512.png": "e3afdeb5cc22a1c22d7b58a40573c0e3944f0f09",
     "https://machine100.github.io/_DotRaceDeploy/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://machine100.github.io/_DotRaceDeploy/index.html": "75a009b67e4c6a645ef05f6a1756ed17b2cab0a7",
-    "https://machine100.github.io/_DotRaceDeploy/main-es2015.c3408e353bc1c31ebe48.js": "5f3aed7e0ff0c42834867c17a5c79aeff23bb3fc",
-    "https://machine100.github.io/_DotRaceDeploy/main-es5.c3408e353bc1c31ebe48.js": "70d3881bf33cbd1b7fc322e3e124e23e7a30d604",
+    "https://machine100.github.io/_DotRaceDeploy/index.html": "0502c2504fa9a6e46d66c8a334130a4462e3c7ef",
+    "https://machine100.github.io/_DotRaceDeploy/main-es2015.33f0b50f4af0634fa416.js": "684b2fcd766002343862f915da9a97a34c4c3c5a",
+    "https://machine100.github.io/_DotRaceDeploy/main-es5.33f0b50f4af0634fa416.js": "234123f931877b628263616b8909baf0b5d8aeaa",
     "https://machine100.github.io/_DotRaceDeploy/manifest.webmanifest": "4fc7edd01b2d39cdf045ea0dde9ff40a2a4f1082",
     "https://machine100.github.io/_DotRaceDeploy/polyfills-es2015.a0fa45e0fa52702b64f0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "https://machine100.github.io/_DotRaceDeploy/polyfills-es5.c6ea59afb9444f35d58e.js": "51967dcad233cf44d3870b48349329e10400d7b8",
